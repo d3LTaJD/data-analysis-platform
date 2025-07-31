@@ -1,0 +1,19 @@
+/assets/*.js
+  Content-Type: application/javascript
+  X-Content-Type-Options: nosniff
+
+/assets/*.css
+  Content-Type: text/css
+  X-Content-Type-Options: nosniff
+
+/*.js
+  Content-Type: application/javascript
+  X-Content-Type-Options: nosniff
+
+/*.mjs
+  Content-Type: application/javascript
+  X-Content-Type-Options: nosniff
+
+/*.css
+  Content-Type: text/css
+  X-Content-Type-Options: nosniff 
